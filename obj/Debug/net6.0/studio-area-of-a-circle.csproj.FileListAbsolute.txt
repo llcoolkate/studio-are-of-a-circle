@@ -1,0 +1,15 @@
+C:\Users\katem\Launchcode Folder\Unit2\csharp-practice\introduction-and-setup\studio-area-of-a-circle\studio-area-of-a-circle\studio-area-of-a-circle\obj\Debug\net6.0\studio-area-of-a-circle.csproj.AssemblyReference.cache
+C:\Users\katem\Launchcode Folder\Unit2\csharp-practice\introduction-and-setup\studio-area-of-a-circle\studio-area-of-a-circle\studio-area-of-a-circle\obj\Debug\net6.0\studio-area-of-a-circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katem\Launchcode Folder\Unit2\csharp-practice\introduction-and-setup\studio-area-of-a-circle\studio-area-of-a-circle\studio-area-of-a-circle\obj\Debug\net6.0\studio-area-of-a-circle.AssemblyInfoInputs.cache
+C:\Users\katem\Launchcode Folder\Unit2\csharp-practice\introduction-and-setup\studio-area-of-a-circle\studio-area-of-a-circle\studio-area-of-a-circle\obj\Debug\net6.0\studio-area-of-a-circle.AssemblyInfo.cs
+C:\Users\katem\Launchcode Folder\Unit2\csharp-practice\introduction-and-setup\studio-area-of-a-circle\studio-area-of-a-circle\studio-area-of-a-circle\obj\Debug\net6.0\studio-area-of-a-circle.csproj.CoreCompileInputs.cache
+C:\Users\katem\Launchcode Folder\Unit2\csharp-practice\introduction-and-setup\studio-area-of-a-circle\studio-area-of-a-circle\studio-area-of-a-circle\bin\Debug\net6.0\studio-area-of-a-circle.exe
+C:\Users\katem\Launchcode Folder\Unit2\csharp-practice\introduction-and-setup\studio-area-of-a-circle\studio-area-of-a-circle\studio-area-of-a-circle\bin\Debug\net6.0\studio-area-of-a-circle.deps.json
+C:\Users\katem\Launchcode Folder\Unit2\csharp-practice\introduction-and-setup\studio-area-of-a-circle\studio-area-of-a-circle\studio-area-of-a-circle\bin\Debug\net6.0\studio-area-of-a-circle.runtimeconfig.json
+C:\Users\katem\Launchcode Folder\Unit2\csharp-practice\introduction-and-setup\studio-area-of-a-circle\studio-area-of-a-circle\studio-area-of-a-circle\bin\Debug\net6.0\studio-area-of-a-circle.dll
+C:\Users\katem\Launchcode Folder\Unit2\csharp-practice\introduction-and-setup\studio-area-of-a-circle\studio-area-of-a-circle\studio-area-of-a-circle\bin\Debug\net6.0\studio-area-of-a-circle.pdb
+C:\Users\katem\Launchcode Folder\Unit2\csharp-practice\introduction-and-setup\studio-area-of-a-circle\studio-area-of-a-circle\studio-area-of-a-circle\obj\Debug\net6.0\studio-area-of-a-circle.dll
+C:\Users\katem\Launchcode Folder\Unit2\csharp-practice\introduction-and-setup\studio-area-of-a-circle\studio-area-of-a-circle\studio-area-of-a-circle\obj\Debug\net6.0\refint\studio-area-of-a-circle.dll
+C:\Users\katem\Launchcode Folder\Unit2\csharp-practice\introduction-and-setup\studio-area-of-a-circle\studio-area-of-a-circle\studio-area-of-a-circle\obj\Debug\net6.0\studio-area-of-a-circle.pdb
+C:\Users\katem\Launchcode Folder\Unit2\csharp-practice\introduction-and-setup\studio-area-of-a-circle\studio-area-of-a-circle\studio-area-of-a-circle\obj\Debug\net6.0\studio-area-of-a-circle.genruntimeconfig.cache
+C:\Users\katem\Launchcode Folder\Unit2\csharp-practice\introduction-and-setup\studio-area-of-a-circle\studio-area-of-a-circle\studio-area-of-a-circle\obj\Debug\net6.0\ref\studio-area-of-a-circle.dll
